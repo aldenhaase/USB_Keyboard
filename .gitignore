@@ -1,0 +1,5 @@
+*.xml
+*.cproj
+Debug/
+*.atsln
+*.vs
