@@ -18,7 +18,6 @@ int main(int argc, char** argv) {
 	usb_init();
 
 	while (!get_usb_config_status()) {
-		// LED Animation
 	}
 
 	shift_init();

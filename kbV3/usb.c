@@ -1,8 +1,8 @@
 /*
  * usb.c
  *
- * Created: 3/15/2022 11:19:40 AM
- *  Author: alden
+ *  Author: Krishna Mani
+ *  Github: https://github.com/kmani314
  */ 
 #define F_CPU 16000000UL
 #include "usb.h"
